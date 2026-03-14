@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+  font-family: f1;
+  src: url(../public/fonts/font1.woff2);
+}
+
+@font-face {
+  font-family: f2;
+  src: url(../public/fonts/font2.woff2);
+}
+
+body{
+  background-color: #fff;
+  overflow-x: hidden;
+}
